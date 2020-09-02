@@ -1,4 +1,4 @@
- array_sq = []
+
 def square_array(array)
   # your code here
 
