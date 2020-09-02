@@ -1,9 +1,9 @@
 
 def square_array(array)
   # your code here
- 
+ array_sq
   array.each do |n| 
-    return n ** 2  
-  
+     n ** 2  
+  array_sq = 
   end
 end
